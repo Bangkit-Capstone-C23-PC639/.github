@@ -1,4 +1,4 @@
-<h1 align="center">C23-PC369-Tani Tama Indonesia</h1>
+<h1 align="center">C23-PC369-TaniTama Indonesia</h1>
 Welcome to the official GitHub repository of Team C23-PC369 from Bangkit program. We are a group of dedicated individuals from various backgrounds who came together to collaborate on different aspects of technology. Our team is comprised of talented individuals specializing in Machine Learning, Cloud Computing, and Mobile Development. Together, we aim to make a positive impact on the world of technology and contribute to the growth of the Indonesian tech industry.
 
 <p></p>
