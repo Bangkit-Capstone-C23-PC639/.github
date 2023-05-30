@@ -1,6 +1,10 @@
-# C23-PC369-Tani Tama Indonesia
-
+<p align="center">
+  <h1>C23-PC369-Tani Tama Indonesia<h1>
+</p>
 Welcome to the official GitHub repository of Team C23-PC369 from Bangkit program. We are a group of dedicated individuals from various backgrounds who came together to collaborate on different aspects of technology. Our team is comprised of talented individuals specializing in Machine Learning, Cloud Computing, and Mobile Development. Together, we aim to make a positive impact on the world of technology and contribute to the growth of the Indonesian tech industry.
+
+<details>
+  <summary>Click here to view more about our team</summary>
 
 ## Team Members
 
@@ -21,15 +25,13 @@ Welcome to the official GitHub repository of Team C23-PC369 from Bangkit program
 
 ### Mobile Development Team
 
-| Bangkit ID  | Nama          | Sosial Media                                                                                                                                 |
-| ----------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| A037DSY1086 | Iriel Aureleo | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](link_to_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn |
-
--Profile-blue?logo=linkedin)](link_to_linkedin) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](link_to_instagram) |
+| Bangkit ID  | Nama          | Sosial Media                                                                                                                                                                                                                                                                                      |
+| ----------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A037DSY1086 | Iriel Aureleo | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](link_to_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](link_to_linkedin) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](link_to_instagram) |
 
 ## Project: Tani Tama
 
-![Tani Tama](https://example.com/tani-tama-icon.png)
+![Tani Tama](icon/tani-tama-icon.png)
 
 **Description**: Tani Tama is an advanced agricultural application that utilizes Machine Learning to detect plant diseases. With the help of computer vision algorithms, Tani Tama can analyze images of plants and accurately identify diseases or abnormalities. This empowers farmers to take timely actions, prevent the spread of diseases, and maximize crop yields.
 
@@ -52,3 +54,5 @@ Thank you for visiting our GitHub repository and for your interest in our team's
 <p align="right">
   <b>C23-PC369 Teams</b>
 </p>
+
+<details>
