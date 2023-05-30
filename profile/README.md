@@ -9,7 +9,7 @@ Welcome to the official GitHub repository of Team C23-PC369 from Bangkit program
 
 ### Machine Learning Team
 
-| Bangkit ID  | Nama                           | Sosial Media                                                                                                                                                                                                                                                                                                                                                        |
+| Bangkit ID  | Name                           | Sosial Media                                                                                                                                                                                                                                                                                                                                                        |
 | ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | M366DSX2156 | Ahmad Rosyihuddin              | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/a-rosyihuddin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-rosyihuddin/) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](https://www.instagram.com/kaji_sik/) |
 | M151DSX1562 | Matyus Garbela Ismanto         | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](link_to_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](link_to_linkedin) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](link_to_instagram)                                                                   |
@@ -17,22 +17,16 @@ Welcome to the official GitHub repository of Team C23-PC369 from Bangkit program
 
 ### Cloud Computing Team
 
-| Bangkit ID  | Nama                | Sosial Media                                                                                                                                                                                                                                                                                      |
+| Bangkit ID  | Name                | Sosial Media                                                                                                                                                                                                                                                                                      |
 | ----------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | C114DSX3336 | Grevalby            | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](link_to_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](link_to_linkedin) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](link_to_instagram) |
 | C356DSX0941 | Micko Agung Pratama | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](link_to_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](link_to_linkedin) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](link_to_instagram) |
 
 ### Mobile Development Team
 
-| Bangkit ID  | Nama          | Sosial Media                                                                                                                                                                                                                                                                                      |
+| Bangkit ID  | Name          | Sosial Media                                                                                                                                                                                                                                                                                      |
 | ----------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A037DSY1086 | Iriel Aureleo | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](link_to_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](link_to_linkedin) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](link_to_instagram) |
-
-## Project: Tani Tama
-
-![Tani Tama](/profile/icon/tani-tama-icon.png)
-
-**Description**: Tani Tama is an advanced agricultural application that utilizes Machine Learning to detect plant diseases. With the help of computer vision algorithms, Tani Tama can analyze images of plants and accurately identify diseases or abnormalities. This empowers farmers to take timely actions, prevent the spread of diseases, and maximize crop yields.
 
 ## About the Project
 
